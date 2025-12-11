@@ -1,6 +1,10 @@
 # ❤️ Heart Disease Prediction Using Multiple Machine Learning Models
 
-![Model Comparison Chart](Heart_Disease_Chart.png)
+![Model Comparison Chart](Correlation.png)
+
+---------------------------------------------------------
+
+![Model Comparison Chart](Visual.png)
 
 
 **Disclaimer:**  
